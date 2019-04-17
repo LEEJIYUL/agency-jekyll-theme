@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: movie2.jpeg
-thumbnail: movie1.jpeg
+thumbnail: movie.jpeg
 alt: image-alt
 project-date: All MY LIFE
 category: Hobby
