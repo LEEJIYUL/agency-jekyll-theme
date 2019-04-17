@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: jesus2.jpeg
-thumbnail: jesus.jpeg
+thumbnail: jesus.png
 alt: image-alt
 project-date: MAY 2019
 category: Religion
