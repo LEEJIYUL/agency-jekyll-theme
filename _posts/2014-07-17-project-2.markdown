@@ -1,14 +1,14 @@
 ---
-title: Singing
+title: Bruno Mars
 subtitle: 
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: singing2.jpeg
-thumbnail: singing.jpeg
+img: bruno2.jpeg
+thumbnail: bruno.jpeg
 alt: image-alt
 project-date: ALL MY LIFE
-category: Hobby
+category: Fovorite
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
