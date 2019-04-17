@@ -4,8 +4,8 @@ subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: weight2.jpeg
-thumbnail: weight.jpeg
+img: workout2.jpeg
+thumbnail: workout.jpeg
 alt: image-alt
 project-date: 2015
 category: Hobby
