@@ -3,45 +3,23 @@ baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Awesome Title
-email: your-email@domain.com
+email: Jiyul147@gmali.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jiyul Lee
   pic: 1
-  position: Lead Designer
+  position: Web Delveloper
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/?lang=ko
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.facebook.com/jiyul025
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+      url: https://www.instagram.com/yu_ru_kor/
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
